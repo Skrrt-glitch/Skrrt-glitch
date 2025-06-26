@@ -4,6 +4,9 @@
 </div>
 
 
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
 <!--
 **Skrrt-glitch/Skrrt-glitch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
