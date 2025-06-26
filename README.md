@@ -5,7 +5,7 @@
 
 ### Мои социальные сети: 
   [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/sqrrrt)
-
+  [![VK](https://img.shields.io/badge/VK-0077FF?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/459001089)
 
 <!--
 **Skrrt-glitch/Skrrt-glitch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
