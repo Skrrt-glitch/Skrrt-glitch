@@ -1,5 +1,5 @@
 #  Hi, my name is Evgeny👋
-![Header Image](https://pin.it/6hGdoR8F2)
+![Image alt](https://pin.it/6hGdoR8F2)
 <!--
 **Skrrt-glitch/Skrrt-glitch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
