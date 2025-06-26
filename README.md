@@ -1,6 +1,6 @@
 #  Hi, my name is Evgeny👋
 <div id="header" align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWhhcmF1Y2dxbTZ4MGtzZ3p3a3ViN2pzN2NpMGt0em85N2w2ZDcyZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KSSLjOjFX9JQrkjZmd/giphy.gif" width="1000"/>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWhhcmF1Y2dxbTZ4MGtzZ3p3a3ViN2pzN2NpMGt0em85N2w2ZDcyZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KSSLjOjFX9JQrkjZmd/giphy.gif" width="400"/>
 </div>
 
 <!--
