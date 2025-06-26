@@ -30,3 +30,7 @@
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![1C](https://img.shields.io/badge/1C-1C1C1C?style=for-the-badge&logo=1C&logoColor=white)](https://1c.ru/)
+
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Skrrt-glitch=anuraghazra&show_icons=true&theme=radical)
