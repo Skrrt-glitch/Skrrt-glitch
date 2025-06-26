@@ -1,6 +1,6 @@
 #  Hi, my name is Evgeny👋
 <div id="header" align="center">
-  <img src="https://th.bing.com/th/id/OIP.rM5ZC0BMxGnc1e5CTGdA8wHaNJ?rs=1&pid=ImgDetMain&cb=idpwebp2&o=7&rm=3" width="100"/>
+  <img src="blob:https://web.telegram.org/3805365b-5a1e-42d7-bbf4-de0607275615" width="100"/>
 </div>
 
 <!--
