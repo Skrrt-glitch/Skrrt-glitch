@@ -7,17 +7,16 @@
   [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/sqrrrt)
   [![VK](https://img.shields.io/badge/VK-0077FF?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/459001089)
   [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=y25k0SImB8Y)
-<!--
-**Skrrt-glitch/Skrrt-glitch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 Изучаю:  
+- Продвинутое использование Rust  
+- Нейросетевые архитектуры  
+
+🤝 Готов к коллаборации по:  
+- Проектам в области машинного обучения  
+- Разработке образовательного контента  
+
+❓ Могу помочь с:  
+- Оптимизацией кода на Python  
+- Настройкой CI/CD  
