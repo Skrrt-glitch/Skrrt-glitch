@@ -1,4 +1,5 @@
 #  Hi, my name is Evgeny👋
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Skrrt-glitch=anuraghazra&theme=highcontrast&show_icons=true)
 
 <!--
 **Skrrt-glitch/Skrrt-glitch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
