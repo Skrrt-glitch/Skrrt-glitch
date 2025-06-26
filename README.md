@@ -31,3 +31,9 @@
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![1C](https://img.shields.io/badge/1C-1C1C1C?style=for-the-badge&logo=1C&logoColor=white)](https://1c.ru/)
 
+
+
+<details>
+  <summary>👀 Нажми меня!</summary>
+  <p>Тут может быть ваш секретный проект или шутка про C++</p>
+</details>
