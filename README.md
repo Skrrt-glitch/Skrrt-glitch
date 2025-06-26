@@ -20,3 +20,13 @@
 ❓ Могу помочь с:  
 - Оптимизацией кода на Python  
 - Настройкой CI/CD  
+
+
+
+### 🛠 Технологии, которые я использую:
+
+[![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
+[![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://learn.microsoft.com/ru-ru/dotnet/csharp/)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![1C](https://img.shields.io/badge/1C-1C1C1C?style=for-the-badge&logo=1C&logoColor=white)](https://1c.ru/)
