@@ -6,7 +6,6 @@
 ### Мои социальные сети: 
   [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/sqrrrt)
 
-![Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 <!--
 **Skrrt-glitch/Skrrt-glitch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
