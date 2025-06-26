@@ -1,4 +1,4 @@
-  # Hi, my name is Evgeny👋
+
 <div id="header" align="center">
   <img src="https://raw.githubusercontent.com/Skrrt-glitch/Skrrt-glitch/433fc88f8f9879e3c40072a1270c556fc1f2a0e6/image/banner.png" width="700"/>
 </div>
