@@ -3,6 +3,9 @@
   <img src="https://raw.githubusercontent.com/Skrrt-glitch/Skrrt-glitch/433fc88f8f9879e3c40072a1270c556fc1f2a0e6/image/banner.png" width="700"/>
 </div>
 
+### Мои социальные сети:    
+- [Telegram](https://t.me/@sqrrrt)  
+
 <!--
 **Skrrt-glitch/Skrrt-glitch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
